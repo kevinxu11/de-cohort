@@ -1,0 +1,17 @@
+[
+    {
+        "sourceBaseURL":"https://github.com",
+        "sourceRelativeURL":"kevinxu11/de-cohort/blob/main/cohort_guided_project/sales.csv",
+        "sinkFileName":"sales.csv"
+    },
+    {
+        "sourceBaseURL":"https://github.com",
+        "sourceRelativeURL":"kevinxu11/de-cohort/blob/main/cohort_guided_project/products_sample.csv",
+        "sinkFileName":"products_sample.csv"
+    },
+    {
+        "sourceBaseURL":"https://github.com",
+        "sourceRelativeURL":"kevinxu11/de-cohort/blob/main/cohort_guided_project/promotions.csv",
+        "sinkFileName":"promotions.csv"
+    }
+]
